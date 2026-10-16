@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Oday — Full-stack development, automation and digital media</title>
+<desc id="desc">I build tools that make work simpler.</desc>
+<rect width="1200" height="310" rx="18" fill="#101821"/>
+<rect x="0" y="38" width="4" height="234" rx="2" fill="#60d4bf"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="54" y="56" fill="#60d4bf" font-size="15" font-weight="600" letter-spacing="3">ODAYM-DEV / SOFTWARE BUILDER</text>
+<text x="50" y="151" fill="#f0f6fc" font-size="88" font-weight="700" letter-spacing="-4">Oday<tspan fill="#60d4bf">.</tspan></text>
+<text x="54" y="203" fill="#f0f6fc" font-size="23" font-weight="500">Full-stack development. Automation. Digital media.</text>
+<text x="54" y="244" fill="#9db3c4" font-size="21">I build tools that make work simpler.</text>
+<path d="M840 49V261" stroke="#263848" stroke-width="1"/>
+<rect x="880" y="56" width="264" height="52" rx="10" fill="#142330"/>
+<rect x="880" y="129" width="264" height="52" rx="10" fill="#142330"/>
+<rect x="880" y="202" width="264" height="52" rx="10" fill="#142330"/>
+<path d="M910 108V129 M910 181V202" stroke="#60d4bf" stroke-width="2" opacity=".6"/>
+<text x="900" y="89" font-size="15" fill="#60d4bf" font-family="Consolas, monospace">01</text>
+<text x="950" y="90" font-size="21" fill="#f0f6fc">Build</text>
+<text x="900" y="162" font-size="15" fill="#60d4bf" font-family="Consolas, monospace">02</text>
+<text x="950" y="163" font-size="21" fill="#f0f6fc">Connect</text>
+<text x="900" y="235" font-size="15" fill="#60d4bf" font-family="Consolas, monospace">03</text>
+<text x="950" y="236" font-size="21" fill="#f0f6fc">Automate</text>
+</g></svg>
